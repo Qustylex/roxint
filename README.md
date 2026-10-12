@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://plain-weur-prod-public.komododecks.com/202610/12/65RsK5G5QzYwY3vGCCZ1/image.jpg" alt="Roxint Banner" width="100%">
+</p>
+
 # Roxint
 
 Roblox OSINT toolkit. Resolves a Roblox username or user ID, collects the full
