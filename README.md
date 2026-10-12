@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://plain-weur-prod-public.komododecks.com/202610/12/65RsK5G5QzYwY3vGCCZ1/image.jpg" alt="Roxint Banner" width="100%">
+  <img src="https://plain-weur-prod-public.komododecks.com/202610/12/WcJIabUyg83A9aabU36N/image.jpg" alt="Roxint Banner" width="100%">
 </p>
 
 # Roxint
